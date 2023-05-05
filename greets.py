@@ -2,5 +2,6 @@ greestings = [
             'hi',
             'hello',
             'good',
-            'bye'
+            'bye',
+            'whatsup'
 ]
